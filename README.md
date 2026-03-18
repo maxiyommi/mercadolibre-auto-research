@@ -124,6 +124,12 @@ Para regenerar sin commitear:
 
 [Abrir un issue](https://github.com/maxiyommi/mercadolibre-auto-research/issues) con: descripcion del problema, marca/modelo usado, output obtenido y output esperado.
 
+## Descargo de Responsabilidad (Disclaimer)
+
+Esta herramienta ha sido creada exclusivamente con fines educativos y de investigacion personal. El autor no se responsabiliza por el uso que los usuarios den a esta skill ni por posibles infracciones a los Terminos y Condiciones de uso de Mercado Libre.
+
+Se recomienda un uso responsable que no sature los servidores de la plataforma. Esta skill no recolecta datos personales y se limita a procesar informacion publica de productos. El uso de este software corre bajo total responsabilidad del usuario.
+
 ## Licencia
 
 MIT
